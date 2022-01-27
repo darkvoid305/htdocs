@@ -1,0 +1,43 @@
+Voorbeeld van een functionaliteit:
+
+"Onderhouden onderdelen"
+
+
+
+Voorbeeld van acties bij deze functionaliteit:
+
+onderdelen kunnen toevoegen
+
+onderdelen kunnen wijzigen
+
+onderdelen kunnen wissen
+
+
+
+Voorbeelden van scenario's bij actie "onderdelen toevoegen":
+
+Scenario 1
+
+de gebruiker voert bij invoerveld "onderdeelnummer" de waarde 345566 in
+
+de gebruiker voert bij invoerveld "aantal" de waarde 2 in
+
+de gebruiker voert bij invoerveld "datum" de datum van vandaag in, in formaat dd-mm-jjjj
+
+de gebruiker drukt op knopt "voeg toe"
+
+
+
+Scenario 2
+
+de gebruiker voert bij invoerveld "onderdeelnummer" de waarde 345566 in
+
+de gebruiker voert bij invoerveld geen waarde in
+
+de gebruiker voert bij invoerveld "datum" de datum van vandaag in, in formaat mm-dd-jjjj
+
+de gebruiker drukt op knopt "voeg toe"
+
+
+
+enzovoort...
